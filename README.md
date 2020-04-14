@@ -1,7 +1,6 @@
 # BookStore Database Program 
 
-A program that stores books information. 
-<br />
+A program that stores books information. <br />-
 Users can:
 * View all records
 * Search an entry
