@@ -1,0 +1,3 @@
+([('frontend',
+   '/Users/ulisescadena/Desktop/Code/python/applications/Desktop-Db/dist/frontend',
+   'EXECUTABLE')],)
