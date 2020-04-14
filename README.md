@@ -9,4 +9,4 @@ Users can:
 * Close
 <br /><br />
 
-<ima src="program.png" alt="program screenshot">
+<img src="program.png" alt="program screenshot">
